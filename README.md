@@ -89,28 +89,51 @@ cp -r derman/derman ~/.claude/skills/derman
 
 ## Nasıl yapıldı
 
-Her persona bir **kart** dosyasıdır: kim olduğu, ana fikirleri ve kaynakları, konuşma üslubu, onu tanınır kılan ayırt edici işaretler, hangi dertlere iyi geldiği, kaçınılacaklar ve kaynakça. Fikirler Stanford Encyclopedia of Philosophy gibi kaynaklara dayanır; üslup tarifleri bir tasarım yorumudur, tarihsel bir konuşma kaydı değildir.
+**1. Araştırma.** Her kişi için bütün hayatını ve eserlerini kapsayan ayrı bir araştırma yapıldı: dönemler, eserler, ana fikirler, ses ve üslup, tartışmalı yanlar ve kişiye yanlış atfedilen sözler. Öncelik birincil kaynaklarda: kişinin kendi eserleri, mektupları, konuşmaları ve röportajları (Project Gutenberg, Wikisource, marxists.org, Perseus, ctext.org, röportaj kayıtları); ardından Stanford Felsefe Ansiklopedisi gibi akademik kaynaklar ve tarihli basın. Bağlantılar tek tek açılarak denetlendi. Ham araştırmalar [`arastirma/`](arastirma/) klasöründe; skill'e ve ZIP'e girmez.
 
-Geliştirme sırasında kartlar ad gizlenerek bir kör tanıma denemesinden geçirildi ve personalar üsluplarından ayırt edilebildi. Bu bir iç deneme; depoda yeniden üretilebilir bir test olarak yer almıyor.
+**2. Objektiflik.** Kişinin hangi konuda ne düşündüğü, kaynakların desteklediği her konuda yazıldı; tartışmalı görüşleri ve eylemleri saklanmadı, tarafsız ve kaynaklı anlatıldı. Tek mutlak sınır: nefret söylemi hiçbir sesle yeniden yazılmaz.
+
+**3. Katmanlı kartlar.** Her kişi bir klasör. Sohbette yalnız gereken parça okunur, böylece bilgi tabanı büyürken her konuşmanın maliyeti küçük kalır:
+
+| Dosya | Ne zaman okunur |
+|---|---|
+| `kimlik.md` | Her zaman: bütün hayattan süzülmüş kimlik, dünya görüşü, ses, sınırlar |
+| `konular/<dert>.md` | Yalnız o dert konuşulurken |
+| `tartismalar.md` | Yalnız tartışmalı bir konu sorulunca |
+| `kaynaklar.md` | Yalnız kaynak sorulunca |
+
+**4. Bağımsız denetim.** Her konu dosyası araştırmaya karşı ayrı bir model tarafından sınıflandı: kişi konuyu *doğrudan* mı ele almış, yoksa fikirleri *dolaylı* mı uygulanıyor. Kaynakta karşılığı olmayan dosyalar silindi; öneriler önce doğrudan listeden yapılır.
+
+**5. Kör test.** Kişi ve eser adları gizlenmiş persona yanıtlarını, kartları görmeyen ayrı bir model 35 adayın arasından yalnız fikir ve üsluptan eşleştirdi: **35/35 doğru**. Yöntem ve kayıt: [`arastirma/kor-test.md`](arastirma/kor-test.md).
 
 ```
 derman/
-├── SKILL.md                     # akış, güvenlik ve sohbet kuralları
+├── SKILL.md                         # akış, güvenlik ve sohbet kuralları
 ├── references/
-│   ├── guvenlik.md              # kriz protokolü ve sınırlar
-│   ├── eslestirme.md            # 21 dert etiketi → kişi eşleşmeleri
-│   └── personalar/*.md          # 35 kişi kartı
-└── ornekler/                    # örnek konuşmalar
+│   ├── guvenlik.md                  # ayrıntılı kriz protokolü ve sınırlar
+│   ├── eslestirme.md                # dert sözlüğü + dert → kişi dizini (üretilir)
+│   └── personalar/<kişi>/
+│       ├── kimlik.md
+│       ├── konular/<dert>.md
+│       ├── tartismalar.md
+│       └── kaynaklar.md
+└── ornekler/                        # örnek konuşmalar
+arastirma/                           # ham araştırmalar, kart şablonu, kör test (ZIP'e girmez)
+araclar/eslestirme_uret.py           # eşleştirme dizinini kartlardan üretir
 ```
 
 ## Katkı
 
 Yeni bir kişi eklemek ya da bir kartı düzeltmek istersen:
 
-1. Mevcut bir kartı (ör. [`seneca.md`](derman/references/personalar/seneca.md)) şablon olarak kopyala; bütün bölümleri doldur ve her ana fikre güvenilir bir kaynak bağla.
-2. Kişiyi [`eslestirme.md`](derman/references/eslestirme.md) içindeki uygun etiketlere ve [`SKILL.md`](derman/SKILL.md) içindeki kişi listesine ekle.
-3. Yaşayan bir kişiyse karta çerçeve notunu ekle.
-4. Pull request aç.
+1. Kişi için [`arastirma/`](arastirma/) altına kaynaklı bir araştırma dosyası ekle.
+2. [`arastirma/KART-YAPISI.md`](arastirma/KART-YAPISI.md) şablonuna göre `derman/references/personalar/<kişi>/` klasörünü yaz; her fikre bir kaynak bağla.
+3. Kişiyi [`SKILL.md`](derman/SKILL.md) içindeki kişi listesine ekle ve dizini yeniden üret:
+   ```bash
+   python3 araclar/eslestirme_uret.py
+   ```
+4. Yaşayan bir kişiyse `kimlik.md`'ye çerçeve notunu ekle.
+5. Pull request aç.
 
 Bir kişi hakkında yanlış bilgi ya da kırılmış bir kaynak bağlantısı görürsen bir issue açman yeterli.
 

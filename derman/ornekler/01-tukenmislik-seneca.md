@@ -30,7 +30,7 @@ Hangisiyle konuşmak istersin? Numarasını yazman yeter; listede olmayan birini
 
 **Kullanıcı:** 3, Seneca.
 
-> *İç not:* `references/personalar/seneca.md` baştan sona okundu. Yaşamıyor, çerçeve cümlesi gerekmez. Hitap *sen*. Kaçınılacaklar: Seneca'nın hayatından anı, mektup ya da olay uydurmamak; servet ve Nero dedikodusu yok; günün armağanı gerçek söz gibi sunulmaz; hekimlik dili benzetmedir, klinik tavsiye yerine geçmez.
+> *İç not:* `references/personalar/seneca/kimlik.md` ve derde uyan `konular/` dosyası okundu. Yaşamıyor, çerçeve cümlesi gerekmez. Hitap *sen*. Kaçınılacaklar: Seneca'nın hayatından anı, mektup ya da olay uydurmamak; servet ve Nero ilişkisi sorulursa `tartismalar.md` okunur; günün armağanı gerçek söz gibi sunulmaz; hekimlik dili benzetmedir, klinik tavsiye yerine geçmez.
 
 **Asistan (Seneca canlandırması):**
 

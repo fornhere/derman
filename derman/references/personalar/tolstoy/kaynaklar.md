@@ -1,0 +1,26 @@
+# Lev Tolstoy · kaynaklar
+
+- [K1] Leo Tolstoy Archive — Biography: Timeline — Andrew Donskov/Tolstoy Studies çevresi — tarihsiz; Gusev’in 1958–60 kroniğine dayalı — https://tolstoyarchive.org/Biography/Timeline.html
+- [K2] Childhood — Lev Tolstoy / Project Gutenberg; çev. C. J. Hogarth — 1852 — https://www.gutenberg.org/ebooks/2142
+- [K3] The Cossacks: A Tale of 1852 — Lev Tolstoy / Project Gutenberg; çev. Aylmer ve Louise Maude — 1863 — https://www.gutenberg.org/ebooks/4761
+- [K4] Sevastopol — Lev Tolstoy / Project Gutenberg; çev. Isabel F. Hapgood — 1855–56 — https://www.gutenberg.org/ebooks/47197
+- [K5] War and Peace — Lev Tolstoy / Project Gutenberg — 1865–69 — https://www.gutenberg.org/ebooks/2600
+- [K6] Anna Karenina — Lev Tolstoy / Project Gutenberg — 1875–77; kitap 1878 — https://www.gutenberg.org/ebooks/1399
+- [K8] A Confession — Lev Tolstoy / Forage — 1879–82; ilk yayın 1884 — https://forage.com/tolstoy/confession/
+- [K9] What Shall We Do? — Lev Tolstoy / Project Gutenberg — 1882–86 — https://www.gutenberg.org/ebooks/38690
+- [K10] The Kreutzer Sonata and Other Stories (sonsöz dâhil) — Lev Tolstoy / Project Gutenberg — 1889–90 — https://www.gutenberg.org/ebooks/689
+- [K11] The Kingdom of God Is Within You — Lev Tolstoy / Project Gutenberg — 1893/94 — https://www.gutenberg.org/ebooks/4602
+- [K12] What Is Art? — Lev Tolstoy / Project Gutenberg; çev. Aylmer Maude — 1897/98 — https://www.gutenberg.org/ebooks/64908
+- [K13] Resurrection — Lev Tolstoy / Project Gutenberg; çev. Louise Maude — 1899 — https://www.gutenberg.org/ebooks/1938
+- [K14] A Letter to a Hindu — Lev Tolstoy / Project Gutenberg — 1908 — https://www.gutenberg.org/ebooks/7176
+- [K15] The Journal of Leo Tolstoi, First Volume: 1895–1899 — Lev Tolstoy / Project Gutenberg; çev. Rose Strunsky — 1917 — https://www.gutenberg.org/files/46272/46272-h/46272-h.htm
+- [K16] Ответ на постановление Синода… (Sinod Kararına Cevap) — Lev Tolstoy / Tolstoy Devlet Müzesi — 1901 — https://www.tolstoy.ru/creativity/journalismguide/227.php
+- [K17] The Death of Ivan Ilych — Lev Tolstoy / Project Gutenberg Central–Penn State classic collection — 1886 — https://www.self.gutenberg.org/wplbn0000649874-the-death-of-ivan-ilych-by-tolstoy-lev-nikolayevich.aspx?words=death+of+ivan+ilych
+- [K18] Anarchism — Andrew Fiala / Stanford Encyclopedia of Philosophy — ilk yayın 2017; araştırmada güncel sürüm — https://plato.stanford.edu/entries/anarchism/
+- [K20] Tolstói e a sexualidade feminina… — Julia Ferrari Duarte do Páteo / RUS (São Paulo) — 2024 — https://revistas.usp.br/rus/fr/article/view/222539
+- [K21] Общественная и публицистическая деятельность по оказанию помощи голодающим (1891–1893) — Tolstoy Devlet Müzesi — tarihsiz çevrimiçi dosya; kapsam 1891–93 — https://tolstoy.ru/creativity/journalismguide/140.php
+- [K22] The ‘Woman Question’ — Ani Kokobobo / Tolstoy in Context, Cambridge University Press — 2022 — https://www.cambridge.org/core/books/abs/tolstoy-in-context/woman-question/F7B8223526978619FB9EFF97A670F8F6
+- [K23] Nomination for Nobel Peace Prize, 1902: Leo Tolstoy; The Nobel Prize in Literature—Nomination — Nobel Prize Outreach AB — 1902 adaylık kaydı; tarihçe tarihsiz — https://www.nobelprize.org/nomination/archive/show.php?id=7106&mode=normal ; https://www.nobelprize.org/prizes/literature/the-nobel-prize-in-literature/
+- [K24] Master and Man — Lev Tolstoy / Project Gutenberg; çev. Aylmer ve Louise Maude — 1895 — https://www.gutenberg.org/ebooks/986
+- [K25] Hadji Murad — Lev Tolstoy / Christian Classics Ethereal Library — 1896–1904’te yazıldı; 1912 — https://www.ccel.org/ccel/tolstoy/hadij.html
+- [K26] Father Sergius — Lev Tolstoy / Project Gutenberg; çev. Aylmer ve Louise Maude — 1890–98’de yazıldı; 1911 — https://www.gutenberg.org/ebooks/985

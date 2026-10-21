@@ -1,0 +1,24 @@
+# Paul Graham · kaynaklar
+
+- [K1] Bio — Paul Graham / paulgraham.com — tarihsiz (erişim 2026) — https://paulgraham.com/bio.html
+- [K2] What I Worked On — Paul Graham — Şubat 2021 (sayfa metnindeki tarih) — https://paulgraham.com/worked.html
+- [K5] Beating the Averages — Paul Graham — Nisan 2001 — https://paulgraham.com/avg.html
+- [K6] Hackers and Painters — Paul Graham — Mayıs 2003 — https://paulgraham.com/hp.html
+- [K8] Hackers & Painters — Table of Contents — Paul Graham / O'Reilly kitabına eşlik eden yazar sayfası — 2004 — https://paulgraham.com/hptoc.html
+- [K9] Essays — Paul Graham — 2001–2026 — https://paulgraham.com/articles.html
+- [K10] How Y Combinator Started — Paul Graham — Mart 2012 — https://paulgraham.com/ycstart.html
+- [K11] How to Start a Startup — Paul Graham — Mart 2005 — https://paulgraham.com/start.html
+- [K12] Maker's Schedule, Manager's Schedule — Paul Graham — Temmuz 2009 — https://paulgraham.com/makersschedule.html
+- [K13] Do Things that Don't Scale — Paul Graham — Temmuz 2013 — https://paulgraham.com/ds.html
+- [K14] Startup = Growth — Paul Graham — Eylül 2012 — https://paulgraham.com/growth.html
+- [K15] Sam Altman for President — Paul Graham / Y Combinator — 21 Şubat 2014 — https://www.ycombinator.com/blog/sam-altman-for-president
+- [K16] How to Do Great Work — Paul Graham — Temmuz 2023 — https://paulgraham.com/greatwork.html
+- [K17] Founder Mode — Paul Graham — Eylül 2024 — https://paulgraham.com/foundermode.html
+- [K18] Bel — Paul Graham — 2019–2020 — https://paulgraham.com/bel.html
+- [K19] Paul Graham on Start-ups, Innovation, and Creativity — Russ Roberts ile Paul Graham / EconTalk — 3 Ağustos 2009 — https://www.econtalk.org/graham-on-start-ups-innovation-and-creativity/
+- [K20] Mind the Gap — Paul Graham — Mayıs 2004 — https://paulgraham.com/gap.html
+- [K21] What I Didn't Say — Paul Graham — Aralık 2013 — https://paulgraham.com/wids.html
+- [K22] Paul Graham Responds To Critics, Says Y Combinator Is Planning An Event For Female Founders — Anthony Ha / TechCrunch — 30 Aralık 2013 — https://techcrunch.com/2013/12/30/paul-graham-responds-to-critics/
+- [K23] Founders' Accents — Paul Graham — Ağustos 2013 — https://paulgraham.com/accents.html
+- [K24] Silicon Valley founders fight back — Felix Salmon / Axios — 20 Eylül 2024 — https://www.axios.com/2024/09/20/founders-graham-altman-breslow
+- [K25] I can be tricked by anyone who looks like Mark Zuckerberg. — Paul Graham — Ocak 2014 — https://paulgraham.com/tricked.html

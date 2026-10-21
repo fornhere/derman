@@ -1,0 +1,21 @@
+# Karl Marx · kaynaklar
+
+- [K2] Economic and Philosophic Manuscripts of 1844: Estranged Labour — Karl Marx — 1844 — https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm
+- [K4] On the Jewish Question — Karl Marx — 1843–44 — https://www.marxists.org/archive/marx/works/1844/jewish-question/
+- [K5] Theses on Feuerbach — Karl Marx — 1845 — https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
+- [K6] The German Ideology, Part I: Feuerbach — Karl Marx ve Friedrich Engels — 1845–46 — https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01.htm
+- [K7] Manifesto of the Communist Party — Karl Marx ve Friedrich Engels — 1848 — https://www.marxists.org/archive/marx/works/1848/communist-manifesto/
+- [K8] The Eighteenth Brumaire of Louis Bonaparte — Karl Marx — 1852 — https://www.marxists.org/archive/marx/works/1852/18th-brumaire/
+- [K9] Marx'tan Joseph Weydemeyer'e Mektup, 5 Mart 1852 — Karl Marx — 1852 — https://www.marxists.org/archive/marx/works/1852/letters/52_03_05-ab.htm
+- [K10] Grundrisse — Karl Marx — 1857–58 — https://www.marxists.org/archive/marx/works/1857/grundrisse/
+- [K11] A Contribution to the Critique of Political Economy: Preface — Karl Marx — 1859 — https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm
+- [K12] Capital, Volume I — Karl Marx — 1867 — https://www.marxists.org/archive/marx/works/1867-c1/
+- [K13] The Civil War in France — Karl Marx — 1871 — https://www.marxists.org/archive/marx/works/1871/civil-war-france/
+- [K14] Critique of the Gotha Programme — Karl Marx — 1875 — https://www.marxists.org/archive/marx/works/1875/gotha/
+- [K15] Marx–Zasulich Correspondence: First Draft and Letter — Karl Marx — 1881 — https://www.marxists.org/archive/marx/works/1881/zasulich/
+- [K16] The Life and Work of Karl Marx: Outstanding Dates — Marx–Engels Institute / Marxists Internet Archive — tarihsiz kronoloji — https://www.marxists.org/archive/marx/bio/marx/lifeandwork.htm
+- [K17] Karl Marx — Jonathan Wolff ve David Leopold / Stanford Encyclopedia of Philosophy — 2003; güncelleme 27 Mart 2025 — https://plato.stanford.edu/entries/marx/
+- [K19] The Poverty of Philosophy — Karl Marx — 1847 — https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/
+- [K20] The British Rule in India — Karl Marx / New-York Daily Tribune — 25 Haziran 1853 — https://www.marxists.org/archive/marx/works/1853/06/25.htm
+- [K22] Marx'tan Engels'e Mektup, 30 Temmuz 1862 — Karl Marx / Marx–Engels Collected Works, c. 41, ss. 388–391 — 30 Temmuz 1862 — https://www.hekmatist.com/Marx%20Engles/Marx%20%26%20Engels%20Collected%20Works%20Volume%2041_%20Ka%20-%20Karl%20Marx.pdf
+- [K23] La Liberté Speech / Amsterdam konuşması, 8 Eylül 1872 — Karl Marx / gazete aktarımı — 8 Eylül 1872 — https://www.marxists.org/archive/marx/works/1872/09/08.htm

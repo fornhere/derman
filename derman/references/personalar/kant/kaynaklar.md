@@ -1,0 +1,21 @@
+# Immanuel Kant · kaynaklar
+
+- [K1] Immanuel Kant — Michael Rohlf / Stanford Encyclopedia of Philosophy — 2010; esaslı güncelleme 31 Temmuz 2024 — https://plato.stanford.edu/entries/kant/
+- [K2] An Answer to the Question: What Is Enlightenment? — Immanuel Kant; çev. Lewis White Beck / Wikisource — 1784; çeviri 1963 — https://en.wikisource.org/wiki/What_is_Enlightenment%3F
+- [K4] The Critique of Pure Reason — Immanuel Kant; çev. J. M. D. Meiklejohn / Project Gutenberg — 1781/1787 — https://www.gutenberg.org/files/4280/4280-h/4280-h.htm
+- [K5] Fundamental Principles of the Metaphysic of Morals — Immanuel Kant; çev. T. K. Abbott / Project Gutenberg — 1785 — https://www.gutenberg.org/files/5682/5682-h/5682-h.htm
+- [K6] The Critique of Practical Reason — Immanuel Kant; çev. T. K. Abbott / Project Gutenberg — 1788 — https://www.gutenberg.org/files/5683/5683-h/5683-h.htm
+- [K7] Kant's Critique of Judgement — Immanuel Kant; çev. J. H. Bernard / Project Gutenberg — 1790 — https://www.gutenberg.org/files/48433/48433-h/48433-h.htm
+- [K9] Die Religion innerhalb der Grenzen der bloßen Vernunft — Immanuel Kant; ed. Karl Kehrbach / Project Gutenberg — 1793/1794 varyantları — https://www.gutenberg.org/files/56182/56182-h/56182-h.htm
+- [K10] Perpetual Peace: A Philosophical Essay — Immanuel Kant; çev. M. Campbell Smith / Project Gutenberg — 1795 — https://www.gutenberg.org/files/50922/50922-h/50922-h.htm
+- [K11] The Metaphysics of Morals (1797) — Immanuel Kant; çev./ed. Mary J. Gregor / Cambridge University Press — 1797; çevrimiçi bölüm kaydı 2012 — https://www.cambridge.org/core/books/abs/practical-philosophy/metaphysics-of-morals-1797/9264C19E216588A065AD0786DCD15BAF
+- [K12] Kant: A Biography — Manfred Kuehn / Cambridge University Press — 2001 — https://www.cambridge.org/core/books/kant-a-biography/C45C3218CB95F97E9985DC8469E3FFE8
+- [K13] Der Streit der Fakultäten*, AA 7:6–11 — Immanuel Kant / Bonner Kant-Korpus — 1798 — https://www.korpora.org/Kant/aa07/006.html
+- [K15] Universal Natural History and Theory of the Heavens (1755) — Immanuel Kant; ed. Eric Watkins / Cambridge University Press — 1755; çevrimiçi bölüm kaydı 2012 — https://www.cambridge.org/core/books/abs/kant-natural-science/universal-natural-history-and-theory-of-the-heavens-or-essay-on-the-constitution-and-the-mechanical-origin-of-the-whole-universe-according-to-newtonian-principles-1755/CBD4B25A50E39481DDEE065413D4A48D
+- [K17] Kant's Second Thoughts on Race — Pauline Kleingeld / The Philosophical Quarterly, 57/229, 573–592 — 2007 — https://pure.rug.nl/ws/files/2768306/Kants_second_thoughts_on_race.pdf
+- [K19] Kants gesammelte Schriften*, Akademie-Ausgabe dijital korpusu — Königlich Preußische/Deutsche Akademie der Wissenschaften (ed.) / Bonner Kant-Korpus — 1900– — https://www.korpora.org/Kant/
+- [K21] Race — Michael James ve Adam Burgos / Stanford Encyclopedia of Philosophy — tarih araştırmada belirtilmemiş — https://plato.stanford.edu/entries/race/
+- [K22] Kant's changing thoughts on race: Critical remarks on Kleingeld's interpretation — Mario Vukoja / Synthesis Philosophica, 39/1 — 2024 — https://hrcak.srce.hr/en/clanak/479631
+- [K23] Kant's Sexism Reconsidered: A Critical Account of Kant's Theory of Citizenship in the Context of Theodor von Hippel's and Amalia Holst's Theories of Women's Duties — Nuria Sánchez Madrid / Canadian Journal of Philosophy — 17 Eylül 2026 — https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/kants-sexism-reconsidered-a-critical-account-of-kants-theory-of-citizenship-in-the-context-of-theodor-von-hippels-and-amalia-holsts-theories-of-womens-duties/A0CB4C1E706CF06B8CE7B9E492ACE850
+- [K24] Über ein vermeintes Recht aus Menschenliebe zu lügen,” AA 8:423–430 — Immanuel Kant / Bonner Kant-Korpus — 1797 — https://www.korpora.org/Kant/aa08/423.html
+- [K25] Kant's Moral Philosophy — Robert Johnson ve Adam Cureton / Stanford Encyclopedia of Philosophy — tarih araştırmada belirtilmemiş — https://plato.stanford.edu/entries/kant-moral/

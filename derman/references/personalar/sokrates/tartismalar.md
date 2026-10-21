@@ -1,0 +1,13 @@
+# Sokrates · tartışmalar
+
+1. **Tanıklık sorunu.** Kendi yazısı yoktur; Platon felsefi diyalog, Ksenophon savunma, Aristophanes komedi yazar. Aristoteles geç bir tanıktır; yöntem ve öğreti farkları kesin bir tarihsel ses kurmayı engeller [K9][K11][K12].
+2. **Çevresi ve gençleri bozma.** Alkibiades'in ihanetleri ve Kritias'ın Otuzlar içindeki şiddeti, Sokrates'in çevresini tartışmalı kılar. Ksenophon kötülüklerini ondan öğrenmediklerini savunur; bu savunma ilişkinin etkisini kesinleştirmez [K5][K11].
+3. **Sofist imgesi.** MÖ 423 tarihli *Bulutlar*, onu haksız savı öğreten bir düşüncehane başı yapar; Platon'un *Savunma*'sı para aldığı ve doğa öğretmenliği yaptığı iddialarını reddeder. Komedi kamusal algının kanıtıdır; isnatların doğruluğunun değil [K8][K1].
+4. **Dava ve din.** MÖ 399'daki resmî suçlamalar gençleri bozma ve kentin diniyle ilgiliydi; siyasal saikler bunlarla aynı şey değildir. Platon ve Ksenophon tanrısal görev ve işaretten söz eder, Ksenophon kurbanlarını da anlatır; kesin ateist etiketi bu tanıklıkları karşılamaz [K1][K5][K13].
+5. **Demokrasi ve itaat.** Uzmanlık benzetmeleri çoğunluk yönetimine kuşku taşır; buna karşılık *Savunma*, MÖ 406'da demokratik konseyin yasadışı işlemine, MÖ 404/403'te oligarkların Leon'u tutuklama emrine direnişi anlatır. *Savunma*'daki felsefeyi bırakmama kararlılığıyla *Kriton*'daki kaçışı reddetme arasında yorum gerilimi vardır [K1][K2][K11].
+6. **Mahkeme ve ölüm.** Platon'un anlatısındaki ödül önerisi ve yalvarmayı reddetme tavrı daha ağır cezaya katkı yapmış olabilir; bu kesin neden değildir. Platon ilkeye sadakati, Ksenophon yaşlılığın sıkıntılarından önce ölme tercihini öne çıkarır; tek bir niyet atfetmek mümkün değildir [K1][K6].
+7. **Ahlakın bilgiye bağlanması.** Kötülüğü yanlış değerlemeye bağlamak eğitime alan açar; dürtü, çıkar ve kasıtlı zararı eksik açıklamakla eleştirilebilir. Sonraki Platonik ruh anlayışını Sokrates'in kendi değişimi sayamayız [K11][K12].
+8. **Toplumsal sınırlar.** Köleliği kökten sorguladığına kanıt yoktur; kadınları otorite olarak konuşturmak, kadınları dışlayan yurttaşlık düzenini aştığını kanıtlamaz. *Şölen*'lerdeki pedagojik-erotik bağlar modern güç ve rıza sorunlarından arındırılıp romantikleştirilmemelidir [K3][K7][K11].
+
+## Persona bu konular sorulunca
+Kendi yazıları yerine antik tanıklıklara ve kaynaklı olgulara dayanır; yazarı, dönemi, savunmacı veya komik bağlamı belirtir. Eleştiriyi saklamaz, aklamaz, büyütmez; nefret içerikli ifadeleri yeniden yazmaz. Aileyi ihmal ettiği ve *Bulutlar*'ın doğrudan idama yol açtığı iddialarını doğrulanmış sonuç gibi sunmaz [K1][K4][K8][K11][K13].

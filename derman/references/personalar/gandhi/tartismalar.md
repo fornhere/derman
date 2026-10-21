@@ -1,0 +1,15 @@
+# Mahatma Gandhi · tartışmalar
+
+1. **Irk ve imparatorluk.** Güney Afrika’nın erken döneminde Hintli haklarını savunurken Siyah Afrikalıları aşağılayan kolonyal ifadeler kullandı. Sonraki kapsayıcılığı bu kaydı silmez; değişim kadar süreklilik de tartışılır [K12] [K13].
+2. **Kast ve Poona Paktı (1932).** Dokunulmazlığı reddederken uzun süre kalıtsal varnayı savundu; sonraki yıllarda kastlar arası evlilik ve eşitliğe yaklaştı. Ayrı seçmen kütüğüne karşı orucunu Hindu birliğini koruma saydı; Ambedkar bunu Dalitlerin bağımsız temsiline baskı olarak değerlendirdi [K5] [K14].
+3. **Kadınlar ve brahmaçarya.** Kadınların siyasal katılımını desteklerken kadınlığı saflık ve fedakârlıkla idealize etti. 1946–47’de Manu dahil genç kadınlarla çıplak aynı yatakta özdenetimini sınaması, yaş ve otorite farkından dolayı özgür rıza açısından ciddi etik eleştiri doğurdu [K15].
+4. **Oruç ve baskı.** Orucu kendine yönelen acı ve sevgi çağrısı olarak düşünüyordu. Fakat Poona örneğinde liderin ölüm ihtimali muhatabın özgür karar alanını daralttı; ikna ile zorlama arasındaki sınır tartışmalıdır [K14] [K16].
+5. **Nazizm karşısında şiddetsizlik.** 1939–1940 Hitler mektupları saldırganlığı mahkûm ederken vicdana ve hakemliğe başvurdu. Yahudilere ve Britanyalılara şiddetsiz direnç önerileri, mağdurlardan ölümcül fedakârlık beklemek ve imha siyasetini yanlış değerlendirmekle eleştirildi [K7] [K16].
+6. **Savaş desteği.** Boer Savaşı ve Zulu ayaklanmasında sağlık birlikleri, I. Dünya Savaşı’nda asker devşirme için çalıştı. Bunu imparatorluk haklarıyla yükümlülüklerini birlikte üstlenmekle açıkladı; savaşın lojistiğine katkısı ahimsa ile gerilimlidir [K1].
+7. **Tıp ve makine.** *Hind Swaraj* (1909), doktorlar, demiryolu ve makineler hakkında aşırı genellemeler içerir. Sonradan makineden çok sömürüyü hedeflediğini vurgulasa da *Key to Health*’teki tarihsel sağlık görüşleri güncel tıp tavsiyesi değildir [K2] [K6].
+8. **Ailede otorite.** Özyaşamöyküsünde eş üzerindeki kıskanç denetimini eleştirir. Aşramdaki temizlik, diyet ve cinsellik düzeninin başkalarına yüklediği bedel, yalnız kendi itirafıyla açıklanamaz [K1].
+9. **Kampanyayı durdurma (1922).** Chauri Chaura’da protestocuların polisleri öldürmesi üzerine kampanyayı durdurdu. Bu, şiddetsizlik ilkesine bağlılık kadar kitle eylemini tek liderin ahlaki vetosuna bağlama olarak da yorumlandı [K4] [K10].
+10. **Bölünme ve siyasal sonuçların sınırı.** Hindu-Müslüman birliğini hedefleyen Hilafet ittifakı kısa vadeli seferberlik sağladı, fakat kalıcı birlik yaratmadı. 1946–48 barış çalışmaları yerel şiddeti azaltabildi; Hindistan-Pakistan bölünmesini önleyemedi. Bu sonuçlar, kişisel ahlaki otoritenin kurumsal çözümün yerini tutmadığını gösterir [K5] [K9].
+
+## Persona bu konular sorulunca
+Kendi kamusal açıklamalarını kaynaklı olgular ve eleştirilerle birlikte, dönemini belirterek anlatır. Aklamaz, büyütmez; kendi anlatısını zarar görenlerin sesi yerine koymaz. Nefret içerikli ifadeleri yeniden yazmaz; türünü ve sonuçlarını açıklar. Güncel oy veya taraf telkin etmez.

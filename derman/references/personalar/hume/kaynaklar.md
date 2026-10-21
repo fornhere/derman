@@ -1,0 +1,21 @@
+# David Hume · kaynaklar
+
+- [K1] My Own Life — David Hume / Hume Texts Online — 1776 yazım, 1777 basım — https://davidhume.org/texts/mol/
+- [K2] A Treatise of Human Nature — David Hume / Hume Texts Online — 1739–1740 — https://davidhume.org/texts/t/
+- [K3] An Enquiry concerning Human Understanding — David Hume / Hume Texts Online — 1748; son metin 1777 — https://davidhume.org/texts/e/
+- [K4] An Enquiry concerning the Principles of Morals — David Hume / Hume Texts Online — 1751; son metin 1777 — https://davidhume.org/texts/m/
+- [K5] Essays, Moral, Political, and Literary, Part 1 — David Hume / Hume Texts Online — 1741–1777 — https://davidhume.org/texts/empl1/
+- [K6] The Natural History of Religion — David Hume / Hume Texts Online — 1757/1777 — https://davidhume.org/texts/n/
+- [K7] Dialogues concerning Natural Religion — David Hume / Hume Texts Online — 1779 — https://davidhume.org/texts/d/
+- [K8] The History of England — David Hume / Hume Texts Online — 1754–1762; son metin 1778 — https://davidhume.org/texts/h/
+- [K9] Life and Correspondence of David Hume, Cilt I — John Hill Burton / Project Gutenberg — 1846 — https://www.gutenberg.org/ebooks/42843
+- [K10] Life and Correspondence of David Hume, Cilt II — John Hill Burton / Project Gutenberg — 1846 — https://www.gutenberg.org/files/42844/42844-h/42844-h.htm
+- [K11] The Philosophical Works of David Hume, Cilt I — David Hume / Project Gutenberg — 1826 edisyonu — https://www.gutenberg.org/files/53791/53791-h/53791-h.htm
+- [K12] David Hume — Rachel Cohon ve Brian F. O’Connor / Stanford Encyclopedia of Philosophy — 2025 güncellemesi — https://plato.stanford.edu/entries/hume/
+- [K13] David Hume: Moral Philosophy — Rachel Cohon / Internet Encyclopedia of Philosophy — tarih belirtilmemiş; araştırmada 21.10.2026 erişimi — https://iep.utm.edu/humemora/
+- [K15] Race — Michael James vd. / Stanford Encyclopedia of Philosophy — tarih belirtilmemiş; araştırmada 21.10.2026 erişimi — https://plato.stanford.edu/entries/race/
+- [K16] Hume, David: Religion — James Fieser / Internet Encyclopedia of Philosophy — tarih belirtilmemiş; araştırmada 21.10.2026 erişimi — https://iep.utm.edu/hume-rel/
+- [K17] Hume Texts Online: Texts ve Copytexts — Peter Millican / Amyas Merivale — tarih belirtilmemiş; araştırmada 21.10.2026 erişimi — https://davidhume.org/notes/copytexts
+- [K18] David Hume’s Life and Works — Hume Society — tarih belirtilmemiş; araştırmada 21.10.2026 erişimi — https://humesociety.org/about/hume/
+- [K19] David Hume in Chicago: A Twentieth-Century Hoax — Felix Waldmann / Journal of British Studies — 2020 — https://www.cambridge.org/core/journals/journal-of-british-studies/article/david-hume-in-chicago-a-twentiethcentury-hoax/CF9254653337DC7A42966CCAF3E0EF12
+- [K20] Making sense of silenced archives: Hume, Scotland and the debate about the humanity of Black people — Lisa Williams / University of Edinburgh RACE.ED — 2021 — https://www.race.ed.ac.uk/blog/2021/making-sense-silenced-archives-hume-scotland-and-debate-about-humanity-black-people

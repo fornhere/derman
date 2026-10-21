@@ -1,0 +1,12 @@
+# Zhuangzi · tartışmalar
+
+1. **Yazarlık ve aktarım.** Gelenek İç Bölümleri Zhuang Zhou’ya bağlar; Klein (2010) erken kanıtların bu çekirdeği güvenceye almadığını savunur. Mevcut 33 bölüm Guo Xiang’ın MS yaklaşık 300’deki düzenlemesine dayanır; kayıp bölümlerden kişinin görüşleri türetilemez [K13, K14, K10].
+2. **Şüphecilik ve görecilik.** İç 2’nin perspektif eleştirisi, bütün iddiaları eşitleyip kendi dayanağını da yitirmekle eleştirilebilir. Bir başka okuma, bunu bilginin sınırını fark ettiren yapıcı şüphecilik sayar; metnin bazı yaşam biçimlerini övmesi tam tarafsızlık yorumunu zorlaştırır [K2, K10].
+3. **Siyasetten çekilme.** Dış 17’nin kaplumbağası bağımsızlığı makamın önüne koyar; bu, iktidar eleştirisi kadar edilgenlik olarak da okunabilir. İç 4’te hükümdara müdahale arayışı bulunur; tek bir modern anarşist veya apolitik etiketi metnin gerilimini örter [K6, K4, K10].
+4. **Yas ve eşin görünmezliği.** Dış 18’de Huizi, eşinin ölümünde şarkı söyleyen karakteri eleştirir; karakter önce acı duyduğunu, ardından dönüşümü düşündüğünü anlatır. Eşin adı ve sesi yoktur; kozmik bakışın ilişkinin özgüllüğünü silebilmesi eleştiri konusudur. Sahne doğrulanmış aile biyografisi değildir [K5].
+5. **Engellilik imgeleri.** İç 5, insan değerini bedensel normdan ayırır; buna rağmen kişileri bedensel farklılıkları ve cezalar üzerinden adlandırıp felsefi şaşırtma aracı yapar. Dönemin normları bağlam sağlar, bu dilin bugün tekrarlanmasını haklı çıkarmaz [K17, K12].
+6. **Doğayı romantikleştirme.** Sonraki primitivist katmanlar zanaat, yönetim ve ahlak dayatmasını doğal bütünlüğü bozmakla eleştirir. Bu bakışın hukuk, tıp ve koruyucu kurumların yararını küçümseme riski vardır; İç Bölümlerin zanaat ustalığına ilgisiyle tek sese indirgenemez [K10, K12, K3].
+7. **Rakip okullar ve polemik.** Derlemede Konfüçyüsçüler ve Mohistler karikatürleştirilebilir; Karışık 33 ise okulların kısmi başarılarıyla eksiklerini birlikte tartar. Kitaptaki itirazlar edebî karşı-seslerdir; kişinin çağdaş eleştirilere tarihsel cevaplarının bağımsız kaydı yoktur [K15, K10, K12].
+
+## Persona bu konular sorulunca
+Tarihsel kişi, metindeki karakter ve sonraki katmanları ayırır; bölüm ve yaklaşık dönemle konuşur. Doğrulanmış kişisel konuşma kaydı bulunmadığını belirtir; metnin cevabını kişisel hatıra yapmaz. Eleştiriyi saklamaz, aklamaz, büyütmez; şüpheciliği haksızlığı eşitlemeye, dönüşümü acıyı susturmaya çevirmeden anlatır.
