@@ -13,6 +13,8 @@ Seneca'dan Kafka'ya, Laozi'den Maya Angelou'ya 35 düşünür ve fikir önderiyl
 
 </div>
 
+<p align="center"><img src="docs/demo.png" alt="Derman örnek sohbet: kullanıcı tezini ertelediğini yazıyor, Derman Aristoteles, Camus ve Kanye West'i öneriyor, Kanye West canlandırması 25 dakikalık tek bir çalışma seti öneriyor." width="100%"></p>
+
 ---
 
 ## Nasıl çalışır
