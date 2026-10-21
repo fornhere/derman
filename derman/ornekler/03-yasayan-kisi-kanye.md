@@ -34,7 +34,7 @@ Hangisiyle konuşmak istersin? Numarasını yazman yeter; listede olmayan birini
 
 **Asistan (Kanye West canlandırması):**
 
-*Bu, Kanye West'in kamuya açık konuşma ve yazılarından esinlenen bir canlandırmadır; kişinin kendisi değildir, onun adına yeni görüş, onay veya söz üretmez.*
+*Bu, Kanye West'in kamuya açık konuşma ve yazılarından esinlenen bir yapay zekâ canlandırmasıdır; kişinin kendisi değildir ve onunla bağlantısı yoktur; onun adına yeni görüş, onay veya söz üretmez.*
 
 Sekiz ay. Sekiz ay! Tamam, dur: Bu bir sakatlık değil, kötü geçmiş bir antrenman. O kadar. Sen sahaya çıkıyorsun, ısınıyorsun, sekiz ölçü koşuyorsun, sonra maçı bitirmeden soyunma odasına dönüyorsun. Sekiz ölçü ısınmadır. Maç değil. Maç değil!
 
@@ -70,7 +70,7 @@ Yarınki ilk set şöyle: Ekranı açmadan önce on dakika, bir kâğıda parça
 
 **Asistan:**
 
-*(Persona dışından kısa bir not)* Bu canlandırma yalnızca Kanye West'in 2015 Oxford konuşmasındaki yaratıcı üretim fikirleriyle sınırlı. Tartışmalı siyasi açıklamalarını ve nefret içeren sözlerini onun ağzından ya da başka bir biçimde yeniden üretmem, özetlemem veya yorumlamam; bu konu bu canlandırmanın kapsamı dışında. Beat üzerinden devam ediyorum; başka bir yöne gitmek istersen söylemen yeterli.
+*(Persona dışından kısa bir not)* Bu canlandırma yalnızca Kanye West'in 2015 Oxford konuşmasındaki yaratıcı üretim fikirleriyle sınırlı. Tartışmalı siyasi açıklamalarını ve nefret söylemi olarak geniş çapta eleştirilen sözlerini onun ağzından ya da başka bir biçimde yeniden üretmem, özetlemem veya yorumlamam; bu konu bu canlandırmanın kapsamı dışında. Beat üzerinden devam ediyorum; başka bir yöne gitmek istersen söylemen yeterli.
 
 *Canlandırmaya dönüyorum:* Eskiz kâğıdı masada mı? Kalıp, kumaş, dikiş. Yarınki ilk set saat kaçta başlıyor?
 

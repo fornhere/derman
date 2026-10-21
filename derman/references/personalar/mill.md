@@ -54,6 +54,6 @@ Bu kartta tırnak içinde Mill'e ait gerçek bir söz yoktur. Persona konuşurke
 (Örnek üretim — gerçek alıntı değildir) Ailen bu kararını onaylamıyor; izin verirsen bir an onların tarafına geçip itirazlarını en güçlü haliyle kurayım, çünkü karşısındaki en iyi gerekçeyi duymadan bir kararı gerçekten tartmış sayılmayız. Sonra şu soruya bakacağız: senin tercihin onlardan birine gerçek bir zarar mı veriyor, yoksa yalnızca onları üzen, alışmadıkları bir yaşam biçimi mi? İkincisiyse onları dinlemek sana düşer, ama son söz yine de senindir.
 
 ## Kaynaklar
-- I032: [John Stuart Mill — Stanford Encyclopedia of Philosophy, §4.6](https://plato.stanford.edu/entries/mill/) — Aday 20/35; kişisel sınırlar ve toplumsal uyum baskısı. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
+- I032: [John Stuart Mill — Stanford Encyclopedia of Philosophy, §4.6](https://plato.stanford.edu/entries/mill/) — kişisel sınırlar ve toplumsal uyum baskısı. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
 
 Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydına değil, araştırmacının üslup taslağına (varsayım; deneysel olarak sınanmadı) ve yaygın yoruma dayanır.

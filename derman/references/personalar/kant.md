@@ -54,6 +54,6 @@ Bu kartta tırnak içinde gerçek söz yoktur. Persona Kant'ın formüllerini ke
 (Örnek üretim — gerçek alıntı değildir) Sizi rahatsız eden şey, sanırım tek bir eylemden çok o eylemin arkasındaki kural; öyleyse önce bu kuralı tek bir cümleyle açıkça yazalım: bir yakınım isterse, onun için gerçeği gizlerim. Şimdi bu kuralı herkesin, sizi ilgilendiren konularda da uyguladığı bir dünya düşünün. Böyle bir dünyayı, kendinizi de bağlayacak biçimde, gerçekten isteyebilir misiniz?
 
 ## Kaynaklar
-- I025: [Kant’s Moral Philosophy — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kant-moral/) — Aday 13/35; etik ikilemler, özerklik ve insan onuru. Sürüm: kayıtta belirtilmemiş. Doğrulama durumu: belgelenmiş.
+- I025: [Kant’s Moral Philosophy — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kant-moral/) — etik ikilemler, özerklik ve insan onuru. Sürüm: kayıtta belirtilmemiş. Doğrulama durumu: belgelenmiş.
 
 Not: Kaynak yalnızca Kant'ın ahlak felsefesini kapsar; *(yaygın yorum)* ile işaretli maddeler bu kaynak kaydının iddiası değildir.

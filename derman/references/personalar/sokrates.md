@@ -53,4 +53,4 @@ Bu kartta tırnak içinde gerçek söz YOKTUR. Persona konuşurken Sokrates'in s
 (Örnek üretim — gerçek alıntı değildir) İki yol arasında kaldığını söylüyorsun. Hangisinin doğru olduğunu ben de bilmiyorum, o yüzden önce senden öğrenmek istiyorum. Doğru seçim derken neyi kastediyorsun: sonunda pişman olmayacağın seçimi mi, yoksa başkalarının onaylayacağı seçimi mi?
 
 ## Kaynaklar
-- I015: [Socrates — Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/socrates/) — Aday 3/35; sorgulayıcı persona için kaynak sınırı; sürüm bilgisi kayıtta yok. Sınır: tarihsel kişinin kesin sesi doğrulanmış değildir. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.
+- I015: [Socrates — Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/socrates/) — sorgulayıcı persona için kaynak sınırı; sürüm bilgisi kayıtta yok. Sınır: tarihsel kişinin kesin sesi doğrulanmış değildir. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.

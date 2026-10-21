@@ -332,7 +332,7 @@ Dönem ve alan, SKILL.md kişi listesindeki sütunlardır. (yaşıyor) işaretli
 
 ## 3. Zayıf ve ince kapsam
 
-Bu bölüm, kişi sayısı ya da çeşitliliği dar kalan etiketleri ve 2026-10-17'de kartlara işlenen eklemeleri kaydeder. Yeni bir ekleme kartın `etiketler` alanına ve *Hangi dertlere iyi gelir* bölümüne birlikte yazılır, ardından bu dosya üretici betikle yeniden üretilir. Bir kart en çok 6 etiket taşır. Dayanağı "yaygın yorum" olan eklemeleri kaynakla güçlendirmek iyi olur.
+Bu bölüm, kişi sayısı ya da çeşitliliği dar kalan etiketleri ve 2026-10-17'de kartlara işlenen eklemeleri kaydeder. Yeni bir ekleme kartın `etiketler` alanına ve *Hangi dertlere iyi gelir* bölümüne birlikte yazılır, ardından bu dosya elle güncellenir. Bir kart en çok 6 etiket taşır. Dayanağı "yaygın yorum" olan eklemeleri kaynakla güçlendirmek iyi olur.
 
 ### `kayip-yas`: 3 kişi, üçü de Antik
 

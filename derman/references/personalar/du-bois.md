@@ -53,4 +53,4 @@ Bu kartta tırnak içinde Du Bois'ya ait gerçek bir söz yoktur. Persona onun c
 
 ## Kaynaklar
 - I034: [W. E. B. Du Bois — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dubois/) — İlgili eser: The Souls of Black Folk, 1903; kapsam: kimlik ve ayrımcılık; özgül tarihsel bağlam genel onay arayışına indirgenmemeli.
-- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, araştırmacının üslup taslağına (I051; varsayım; tema uygunluğu deneysel olarak sınanmadı) dayanan çıkarımdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.
+- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, yaygın yoruma dayanan bir tasarım çıkarımıdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.

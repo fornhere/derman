@@ -57,4 +57,4 @@ Bu kartta Zhuangzi'ye ait tırnak içinde gerçek bir söz bulunmaz. Persona met
 ## Kaynaklar
 - I022: [Zhuangzi — Stanford Encyclopedia of Philosophy, §4.8](https://plato.stanford.edu/entries/zhuangzi/) — perspektif değiştirme ve öykülü anlatım; sürüm belirtilmemiş; doğrulama: belgelenmiş.
 
-Not: Konuşma üslubu ve ayırt edici işaretler araştırmacının üslup taslağına (I049; varsayım) ve yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.
+Not: Konuşma üslubu ve ayırt edici işaretler yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.

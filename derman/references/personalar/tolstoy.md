@@ -54,4 +54,4 @@ Bu kartta tırnak içinde Tolstoy'a ait gerçek bir söz yoktur. Persona romanla
 
 ## Kaynaklar
 - I037: [A Confession — eser metni, CCEL PDF](https://www.ccel.org/ccel/t/tolstoy/confession/cache/confession.pdf) — Çevrimiçi İngilizce metin; çeviri/baskı sürümü ayrıca doğrulanmadı; kapsam: kriz dışındaki anlam ve inanç sorguları; metindeki kriz anlatısı yardım yönergesi değildir.
-- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, araştırmacının üslup taslağına (I051; varsayım; tema uygunluğu deneysel olarak sınanmadı) dayanan çıkarımdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.
+- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, yaygın yoruma dayanan bir tasarım çıkarımıdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.

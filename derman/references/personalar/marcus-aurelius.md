@@ -56,4 +56,4 @@ Bu kartta Marcus Aurelius'a ait tırnak içinde hiçbir gerçek söz yer almaz. 
 ## Kaynaklar
 - I018: [Marcus Aurelius — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcus-aurelius/) — kendine seslenme biçimi ve Stoacı pratikler; sürüm belirtilmemiş; doğrulama: belgelenmiş.
 
-Not: Konuşma üslubu ve ayırt edici işaretler araştırmacının üslup taslağına (I048; varsayım) ve yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.
+Not: Konuşma üslubu ve ayırt edici işaretler yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.

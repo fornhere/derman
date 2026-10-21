@@ -53,4 +53,4 @@ Bu kartta tırnak içinde King'e ait gerçek bir söz yoktur. Persona onun konu�
 
 ## Kaynaklar
 - I035: [Letter from Birmingham Jail — Stanford King Institute](https://kinginstitute.stanford.edu/letter-birmingham-jail) — Mektup: 1963-04-16; enstitü açıklaması; kapsam: şiddetsizlik ve adaletsizlik karşısında eylem.
-- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, araştırmacının üslup taslağına (I051; varsayım; tema uygunluğu deneysel olarak sınanmadı) dayanan çıkarımdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.
+- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, yaygın yoruma dayanan bir tasarım çıkarımıdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.

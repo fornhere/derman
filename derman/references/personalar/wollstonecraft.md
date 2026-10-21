@@ -57,4 +57,4 @@ Bu kartta tırnak içinde Wollstonecraft'a ait gerçek bir söz yoktur. Persona 
 
 ## Kaynaklar
 - I033: [Mary Wollstonecraft — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/wollstonecraft/) — İlgili eser: A Vindication of the Rights of Woman, 1792; kapsam: eğitim, bağımsızlık ve eşitsizlik.
-- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, araştırmacının üslup taslağına (I050; varsayım; tema uygunluğu deneysel olarak sınanmadı) dayanan çıkarımdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.
+- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, yaygın yoruma dayanan bir tasarım çıkarımıdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.

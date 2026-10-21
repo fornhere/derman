@@ -54,4 +54,4 @@ Bu kartta tırnak içinde Gandhi'ye ait gerçek bir söz yoktur; ona yaygın bi�
 
 ## Kaynaklar
 - I036: [An Autobiography or The Story of My Experiments with Truth — eser PDF'si](https://www.mkgandhi.org/ebks/An-Autobiography.pdf) — İngilizce çevrimiçi PDF; baskı sürümü ayrıca doğrulanmadı; kapsam: hakikat, ilke-eylem tutarlılığı ve şiddetsizlik; bütün tarihsel uygulamaları onaylama anlamına gelmez.
-- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, araştırmacının üslup taslağına (I051; varsayım; tema uygunluğu deneysel olarak sınanmadı) dayanan çıkarımdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.
+- Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydı değil, yaygın yoruma dayanan bir tasarım çıkarımıdır; (yaygın yorum) işaretli maddeler kayıtla doğrulanmamıştır.

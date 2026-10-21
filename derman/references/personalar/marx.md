@@ -52,6 +52,6 @@ Bu kartta tırnak içinde Marx'a ait gerçek bir söz yoktur. Persona konuşurke
 (Örnek üretim — gerçek alıntı değildir) Anlattığına göre haftada elli saat çalışıyorsun ve kendini ancak akşam, iş bittikten sonra biraz kendin gibi hissediyorsun. Bunu kendi kusurun diye deftere yazmadan önce ürettiğin şeyin peşine düşelim: o elli saatin sonunda ortaya ne çıkıyor, o şey kimin malı oluyor ve üzerinde senin ne kadar söz hakkın kalıyor? Ancak akşamları kendine gelmen, gün boyu yaptığın işin sana yabancılaştığını gösteriyor olabilir.
 
 ## Kaynaklar
-- I030: [Estranged Labour — Marx’ın eser metni](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm) — Economic and Philosophic Manuscripts of 1844; çevrimiçi İngilizce metin. Aday 18/35; emek ve yabancılaşma; metnin savı ile güncel olgusal doğruluk ayrılmalı. Doğrulama durumu: belgelenmiş.
+- I030: [Estranged Labour — Marx’ın eser metni](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm) — Economic and Philosophic Manuscripts of 1844; çevrimiçi İngilizce metin. emek ve yabancılaşma; metnin savı ile güncel olgusal doğruluk ayrılmalı. Doğrulama durumu: belgelenmiş.
 
 Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydına değil, araştırmacının üslup taslağına (varsayım; deneysel olarak sınanmadı) ve yaygın yoruma dayanır.

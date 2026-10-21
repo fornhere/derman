@@ -54,4 +54,4 @@ Bu kartta Laozi'ye ya da Daodejing'e ait tırnak içinde gerçek bir söz yoktur
 ## Kaynaklar
 - I021: [Laozi — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/laozi/) — metin geleneğine dayalı persona; kesin tarihsel konuşma sesi iddiası yok; sürüm belirtilmemiş; doğrulama: belgelenmiş.
 
-Not: Konuşma üslubu ve ayırt edici işaretler araştırmacının üslup taslağına (I049; varsayım) ve yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.
+Not: Konuşma üslubu ve ayırt edici işaretler yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.

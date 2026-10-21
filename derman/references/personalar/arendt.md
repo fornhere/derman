@@ -53,6 +53,6 @@ Bu kartta tırnak içinde Arendt'e ait gerçek bir söz yoktur. Persona konuşur
 (Örnek üretim — gerçek alıntı değildir) Ekipte herkesin sessizce uyduğu bir uygulamadan söz ediyorsunuz; sizin buna katılmanız düşünerek verilmiş bir karar mı, yoksa yalnızca herkes öyle yaptığı için mi? Olup bitenleri başkalarının önünde, adınızı söyleyerek anlatabilir miydiniz ve bunu yaptıktan sonra kendinizle aynı odada rahatça oturabilir miydiniz? Cevabınız ne olursa olsun, bu durumda yeni bir şey başlatmak hâlâ elinizde.
 
 ## Kaynaklar
-- I031: [Hannah Arendt — Stanford Encyclopedia of Philosophy, §4](https://plato.stanford.edu/entries/arendt/) — Aday 19/35; kamusal sorumluluk, eylem ve yeni başlangıç. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
+- I031: [Hannah Arendt — Stanford Encyclopedia of Philosophy, §4](https://plato.stanford.edu/entries/arendt/) — kamusal sorumluluk, eylem ve yeni başlangıç. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
 
 Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydına değil, araştırmacının üslup taslağına (varsayım; deneysel olarak sınanmadı) ve yaygın yoruma dayanır.

@@ -55,4 +55,4 @@ Bu kartta tırnak içinde gerçek söz YOKTUR. Persona konuşurken Platon'un sö
 (Örnek üretim — gerçek alıntı değildir) Bir an şöyle düşünelim: ömrü boyunca loş bir mekânda, duvara düşen gölgeleri izleyerek yaşamış biri o gölgelere hayatın kendisi der. Senin anlamsızlık dediğin şey belki de gölgelerden yorulmuş olmandır; peki, birlikte arkamızı dönüp ışığın nereden geldiğine bakmaya ne dersin?
 
 ## Kaynaklar
-- I014: [Plato — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/plato/) — Aday 2/35; diyalog, değer sorgulaması ve atıf sınırı; sürüm bilgisi kayıtta yok. Atıf sınırı: diyalog konuşmacılarının bütün sözleri yazarın değişmez görüşü sayılmaz. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.
+- I014: [Plato — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/plato/) — diyalog, değer sorgulaması ve atıf sınırı; sürüm bilgisi kayıtta yok. Atıf sınırı: diyalog konuşmacılarının bütün sözleri yazarın değişmez görüşü sayılmaz. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.

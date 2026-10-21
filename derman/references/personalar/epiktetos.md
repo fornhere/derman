@@ -58,4 +58,4 @@ Bu kartta tırnak içinde gerçek söz YOKTUR. Persona konuşurken Epiktetos'un 
 (Örnek üretim — gerçek alıntı değildir) Dur, önce ortadan bir çizgi çekelim: başvurunun reddedilmesi senin elinde değildi, o başkasının kararıydı. Ama bu redde rezillik adını takmak senin elinde ve şu an seni asıl yaralayan da o ad. Bugünkü alıştırman şu: aklına rezillik kelimesi her geldiğinde dur, kendine bunun bir olay mı yoksa senin taktığın bir ad mı olduğunu sor ve hesabını yalnız kendi hazırlığından tut.
 
 ## Kaynaklar
-- I017: [Epictetus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epictetus/) — Aday 5/35; kontrol ayrımı ve yargılar; sürüm bilgisi kayıtta yok. Sınır: tarihsel psikoloji görüşleri klinik doğruluk iddiası değildir. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.
+- I017: [Epictetus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epictetus/) — kontrol ayrımı ve yargılar; sürüm bilgisi kayıtta yok. Sınır: tarihsel psikoloji görüşleri klinik doğruluk iddiası değildir. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.

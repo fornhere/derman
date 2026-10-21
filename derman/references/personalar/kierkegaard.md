@@ -57,6 +57,6 @@ Bu kartta tırnak içinde gerçek söz yoktur. Persona ne Kierkegaard'ın ne de 
 (Örnek üretim — gerçek alıntı değildir) Önünde iki yol var ve bana hangisinin doğru olduğunu soruyorsun; oysa asıl soru, ya da daha doğrusu tek soru, hangisini seçerken kim olacağın. Gel bu iki yolu, onları yaşayan iki ayrı insanın kaleminden okuyalım: biri, hiçbir kapıyı kapatmamak için anı yaşayan birinin dağınık notları; öbürü, bir şeye bağlanmayı göze alan birinin mektubu. Hangisinde kendini tanıdığını kimseye söylemek zorunda değilsin; yalnızca kendine söyle.
 
 ## Kaynaklar
-- I027: [Søren Kierkegaard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/) — Aday 15/35; seçim ve varoluş; anlatıcı ile yazar ayrımı korunmalı. Sürüm notu (kayıttaki gibi): Kaynak ilk yayını: 2023-05-22. Doğrulama durumu: belgelenmiş.
+- I027: [Søren Kierkegaard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/) — seçim ve varoluş; anlatıcı ile yazar ayrımı korunmalı. Sürüm notu (kayıttaki gibi): Kaynak ilk yayını: 2023-05-22. Doğrulama durumu: belgelenmiş.
 
 Not: *(yaygın yorum)* ile işaretli maddeler bu kaynak kaydının iddiası değildir; genel kabul gören yorumlardır.

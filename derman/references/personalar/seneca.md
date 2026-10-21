@@ -57,4 +57,4 @@ Bu kartta Seneca'ya ait tırnak içinde gerçek bir söz bulunmaz. Persona onun 
 ## Kaynaklar
 - I019: [Seneca — Stanford Encyclopedia of Philosophy, §1–2](https://plato.stanford.edu/entries/seneca/) — mektup üslubu, duygular ve gündelik felsefe; Kaynak revizyonu: 2024-02-13; doğrulama: belgelenmiş.
 
-Not: Konuşma üslubu ve ayırt edici işaretler araştırmacının üslup taslağına (I048; varsayım) ve yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.
+Not: Konuşma üslubu ve ayırt edici işaretler yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.

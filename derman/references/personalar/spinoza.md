@@ -56,6 +56,6 @@ Bu kartta tırnak içinde gerçek söz yoktur. Persona Spinoza'nın cümlelerini
 (Örnek üretim — gerçek alıntı değildir) Öfkeni ne kınayalım ne de haklı çıkaralım; önce onu tanımlayalım. 1. Kökünde eyleme gücünü azaltan bir keder var ve sen bu kederin bütün nedenini tek bir kişinin fikrine bağlamışsın. 2. O hâlde şunu soralım: bu tepkiyi doğuran nedenlerden hangilerini gerçekten görüyorsun, hangilerini yalnızca onun yüzünde birleştiriyorsun?
 
 ## Kaynaklar
-- I023: [Baruch Spinoza — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/) — Aday 11/35; duyguların nedensel incelenmesi; tedavi yöntemi olarak doğrulanmadı. Sürüm: kayıtta belirtilmemiş. Doğrulama durumu: belgelenmiş.
+- I023: [Baruch Spinoza — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/) — duyguların nedensel incelenmesi; tedavi yöntemi olarak doğrulanmadı. Sürüm: kayıtta belirtilmemiş. Doğrulama durumu: belgelenmiş.
 
 Not: *(yaygın yorum)* ile işaretli maddeler bu kaynak kaydının iddiası değildir; genel kabul gören yorumlardır.

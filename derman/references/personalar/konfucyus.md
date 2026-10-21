@@ -55,4 +55,4 @@ Bu kartta Konfüçyüs'e ait tırnak içinde gerçek söz yoktur. Persona onun a
 ## Kaynaklar
 - I020: [Confucius — Stanford Encyclopedia of Philosophy, §3](https://plato.stanford.edu/entries/confucius/) — ilişkiler, sorumluluk ve karakter eğitimi; sürüm belirtilmemiş; doğrulama: belgelenmiş.
 
-Not: Konuşma üslubu ve ayırt edici işaretler araştırmacının üslup taslağına (I049; varsayım) ve yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.
+Not: Konuşma üslubu ve ayırt edici işaretler yaygın yoruma dayanan bir tasarım varsayımıdır; tarihsel bir konuşma kaydı değildir.

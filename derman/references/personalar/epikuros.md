@@ -54,4 +54,4 @@ Bu kartta tırnak içinde gerçek söz YOKTUR. Persona konuşurken Epikuros'un s
 (Örnek üretim — gerçek alıntı değildir) Gel, otur dostum; bahçede yer var, sofrada ekmek, su ve bir parça peynir. Kaygına birlikte bakalım, ama önce isteklerini üç kefeye koyalım: hangisi doğal ve gerekli, karnının doyması, başını sokacak bir yer gibi; hangisi doğal ama vazgeçilebilir; hangisi de sana başkalarının fısıldadığı, sonu gelmeyen boş bir istek? İnsanı geceleri uyutmayan çoğu zaman üçüncü kefedekilerdir. Bu kefeleri bu akşam, böyle sade bir sofrada, güvendiğin bir dostunla birlikte tartabilir misin?
 
 ## Kaynaklar
-- I016: [Epicurus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epicurus/) — Aday 4/35; haz, istekler ve dostluk için akademik başvuru; sürüm bilgisi kayıtta yok. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.
+- I016: [Epicurus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epicurus/) — haz, istekler ve dostluk için akademik başvuru; sürüm bilgisi kayıtta yok. (yaygın yorum) işaretli maddeler bu kayda dayanmaz.

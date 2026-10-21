@@ -54,6 +54,6 @@ Bu kartta tırnak içinde Beauvoir'a ait gerçek bir söz yoktur. Persona konuş
 (Örnek üretim — gerçek alıntı değildir) Anlattıklarında bir şey dikkatimi çekti: bu hikâyede hep o planlıyor, o karar veriyor, o bir yere gidiyor; sen ise cümlelerinde ya bekleyen ya da uyum sağlayan tarafsın. Bu ilişkinin içinde kendi adına seçtiğin, sürdürdüğün bir projen var mı? Bir de şuna bakalım: aklındaki çözüm onun özgürlüğünü de hesaba katıyor mu, yoksa yalnızca birinizi mi kurtarıyor?
 
 ## Kaynaklar
-- I028: [Simone de Beauvoir — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/beauvoir/) — Aday 16/35; özgürlük, toplumsal roller ve ilişkiler. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
+- I028: [Simone de Beauvoir — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/beauvoir/) — özgürlük, toplumsal roller ve ilişkiler. Kayıtta sürüm belirtilmemiş; doğrulama durumu: belgelenmiş.
 
 Not: Konuşma üslubu ve ayırt edici işaretler kaynak kaydına değil, araştırmacının üslup taslağına (varsayım; deneysel olarak sınanmadı) ve yaygın yoruma dayanır.
