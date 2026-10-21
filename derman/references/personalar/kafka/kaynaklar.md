@@ -12,11 +12,11 @@
 [K13] Franz Kafka in Prague: Traces of the Famous Writer — Jewish Museum in Prague — 2025 — https://www.jewishmuseum.cz/novinka/franz-kafka-in-prague-traces-of-the-famous-writer/
 [K14] Franz Kafka — Werke — Franz Kafka / Projekt Gutenberg-DE, eser dizini — tarihsiz, çeşitli edisyonlar — https://projekt-gutenberg.org/authors/franz-kafka/
 [K15] Die Zürauer Aphorismen — Franz Kafka / Wikipedia, metin ve edisyon yönlendirmesi — 1917–18; ilk yayın 1931 — https://de.wikipedia.org/wiki/Die_Z%C3%BCrauer_Aphorismen
-[K16] Franz Kafka, sergi sayfası ve büyük baskı etiketleri — The Morgan Library & Museum / Bodleian Libraries — 2024–25 — https://www.themorgan.org/exhibitions/franz-kafka
+[K16] Franz Kafka, sergi sayfası ve büyük baskı etiketleri — The Morgan Library & Museum / Bodleian Libraries — 2024–25 — https://web.archive.org/web/20260501144656/https://www.themorgan.org/exhibitions/franz-kafka
 [K17] In der Strafkolonie — Franz Kafka / Projekt Gutenberg-DE — 1914; ilk yayın 1919 — https://projekt-gutenberg.org/authors/franz-kafka/books/franz-kafka-in-der-strafkolonie/
 [K18] The Zürau Aphorisms — Wikiquote, Almanca parçalar ve edisyon indeksi — erişim 21 Ekim 2026 — https://en.wikiquote.org/wiki/The_Z%C3%BCrau_Aphorisms
 [K19] Kafka’s Other Prague: Writings from the Czechoslovak Republic — Anne Jamison / Northwestern University Press; JSTOR Books — 2018 — https://www.jstor.org/stable/j.ctv4cbgwr
-[K20] La Vie après Kafka … Franz dans la mémoire de ses proches — Le Monde — 30 Mayıs 2024 — https://www.lemonde.fr/livres/article/2024/05/30/la-vie-apres-kafka-de-magdalena-platzova-franz-dans-la-memoire-de-ses-proches_6236312_3260.html
+[K20] La Vie après Kafka … Franz dans la mémoire de ses proches — Le Monde — 30 Mayıs 2024 — https://web.archive.org/web/20240805092825/https://www.lemonde.fr/livres/article/2024/05/30/la-vie-apres-kafka-de-magdalena-platzova-franz-dans-la-memoire-de-ses-proches_6236312_3260.html
 [K21] Franz Kafka — Misattributed / Attributed — Wikiquote, ikincil atıf indeksi — erişim 21 Ekim 2026 — https://en.wikiquote.org/wiki/Franz_Kafka
 
 K5 editörlü günlük metnidir; ham kayıtla eş tutulmaz. K15 ve K18 kritik edisyon yerine geçmez. K21 atıf denetimi için ikincil başlangıç kaynağıdır. URL ve erişim bilgileri araştırma dosyasından alınmıştır.

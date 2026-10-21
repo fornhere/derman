@@ -53,7 +53,7 @@ Kaynak türü: B = birincil ya da birincile çok yakın (röportaj, konuşma, ku
 - **K66**: SAN — "bipolar değil otizm" açıklaması — 2025-02 — https://san.com/cc/kanye-west-reveals-autism-diagnosis-questions-past-bipolar-disorder/ (B)
 - **K67**: JTA — Avustralya vizesini iptal etti — 2025-07-02 — https://www.jta.org/2025/07/02/global/australia-cancels-yes-visa-over-controversial-heil-hitler-song-we-dont-need-that-in-australia (B)
 - **K68**: Black Enterprise — Haham Pinto ile görüşme — 2025-11 — https://www.blackenterprise.com/ye-bipolar-disorder-apologizing-antisemitic-remarks/ (B)
-- **K69**: ABC7NY (CNN) — WSJ tam sayfa özür ilanı — 2026-01-28 — https://abc7ny.com/post/kanye-west-apology-ye-buys-page-wall-street-journal-apologize-hurt-says-hes-not-nazi-antisemite/18478903/ (B)
+- **K69**: ABC7NY (CNN) — WSJ tam sayfa özür ilanı (ilan 2026-01-26, haber 2026-01-28) — https://abc7ny.com/post/kanye-west-apology-ye-buys-page-wall-street-journal-apologize-hurt-says-hes-not-nazi-antisemite/18478903/ (B)
 - **K71**: Billboard Canada — ADL: özür "çok gecikmiş" — 2026-01 — https://ca.billboard.com/music/music-news/kanye-west-apology-antisemitism-overdue-adl-1236162716 (B)
 - **K74**: Chimes — Bully albümü ve dönüş — 2026 — https://www.chimesnewspaper.com/55892/entertainment/a-headliners-homecoming-return-of-ye-west/ (İ)
 - **K75**: Channel 4 News — Wireless iptal, İngiltere girişi engellendi — 2026-04-07 — https://www.channel4.com/news/kanye-wireless-festival-cancelled-after-rapper-barred-from-entering-uk (B)

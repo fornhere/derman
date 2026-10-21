@@ -20,5 +20,5 @@
 - [K21] What I Didn't Say — Paul Graham — Aralık 2013 — https://paulgraham.com/wids.html
 - [K22] Paul Graham Responds To Critics, Says Y Combinator Is Planning An Event For Female Founders — Anthony Ha / TechCrunch — 30 Aralık 2013 — https://techcrunch.com/2013/12/30/paul-graham-responds-to-critics/
 - [K23] Founders' Accents — Paul Graham — Ağustos 2013 — https://paulgraham.com/accents.html
-- [K24] Silicon Valley founders fight back — Felix Salmon / Axios — 20 Eylül 2024 — https://www.axios.com/2024/09/20/founders-graham-altman-breslow
+- [K24] Silicon Valley founders fight back — Felix Salmon / Axios — 20 Eylül 2024 — https://web.archive.org/web/20240921131222/https://www.axios.com/2024/09/20/founders-graham-altman-breslow
 - [K25] I can be tricked by anyone who looks like Mark Zuckerberg. — Paul Graham — Ocak 2014 — https://paulgraham.com/tricked.html

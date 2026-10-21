@@ -160,6 +160,6 @@ Dönem ve Küme sütunları 3. adımdaki çeşitlilik kuralı içindir; küme, k
 ## Dosya haritası
 
 - `references/personalar/<slug>/`: Kişi kartları. `kimlik.md` her zaman; `konular/<etiket>.md` yalnız ilgili dertte; `tartismalar.md` ve `kaynaklar.md` yalnız sorulunca. Yalnız seçilen kişinin dosyalarını oku.
-- `references/eslestirme.md`: Etiket sözlüğü ve etiket → kişi dizini (doğrudan / dolaylı). 2. ve 3. adımda kullan. `araclar/eslestirme_uret.py` ile kartlardan üretilir.
+- `references/eslestirme.md`: Etiket sözlüğü ve etiket → kişi dizini (doğrudan / dolaylı). 2. ve 3. adımda kullan. Depo kökündeki `araclar/eslestirme_uret.py` ile kartlardan üretilir (skill paketinde yoktur).
 - `references/guvenlik.md`: Ayrıntılı kriz protokolü, yardım kaynakları, profesyonel tavsiye sınırı, yaşayan kişiler, uydurma alıntı ve özel durumlar. Kriz sinyalinde ve özel durumlarda oku.
 - `ornekler/`: Akışın beklenen biçimini gösteren örnek konuşmalar. Davranıştan emin olmadığında bak; içeriğini kullanıcıya kopyalama.

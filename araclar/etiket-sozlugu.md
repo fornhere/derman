@@ -12,7 +12,7 @@ Derdi en çok anlatan etiket birincildir; en çok iki ikincil eklenir. İfadeler
 | `yalnizlik` | Yalnız hissetme, bağ kuramama, anlaşılmama ya da bir yere ait olamama. | "Kimse beni anlamıyor" · "Kalabalıkta bile yalnızım" · "Konuşacak kimsem yok" |
 | `kariyer-is` | Mevcut iş, meslek ve iş yeri: memnuniyetsizlik, takdir görmeme, meslek yönü. | "İşimden nefret ediyorum" · "Galiba yanlış meslekteyim" · "Terfi alamadım" |
 | `yaraticilik-tikanma` | Yazı, müzik, resim, kod gibi yaratıcı bir işte üretememe, ilham kaybı. | "Hiçbir şey yazamıyorum" · "İlhamım kurudu" · "Ne yapsam kötü geliyor" |
-| `erteleme-disiplin` | Erteleme, odaklanamama, alışkanlık kuramama; yapmak istediğine başlayamama. | "Hep son güne bırakıyorum" · "Bir türlü başlayamıyorum" · "Telefona dalınca gün bitiyor" |
+| `erteleme-disiplin` | Erteleme, odaklanamama, alışkanlık kuramama; yapmak istediğine başlayamama. | "Hep son güne bırakıyorum" · "Bir türlü başlayamıyorum" · "Hiç zamanım yetmiyor" |
 | `ozguven-kimlik` | Kendine güvenmeme, değersizlik hissi, kim olduğu sorusu, başkalarının tanımına göre yaşama. | "Kendime güvenmiyorum" · "Yeterince iyi değilim" · "Ben aslında kimim?" |
 | `ofke-catisma` | Öfke, kavga, kin ve kırgınlık; biriyle süren çatışma. | "Çok sinirliyim" · "Ev arkadaşım beni deli ediyor" · "Kendimi tutamayıp bağırdım" |
 | `adaletsizlik-ayrimcilik` | Haksızlığa uğrama; cinsiyet, köken, kimlik ya da konum yüzünden ayrımcılık ve eşitsizlik. | "Haksızlığa uğradım" · "Kadın olduğum için ciddiye alınmıyorum" · "Kimliğim yüzünden dışlanıyorum" |

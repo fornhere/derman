@@ -7,7 +7,7 @@
 - [K6] Key to Health — M. K. Gandhi — yazım 1942; yayım 1948 — https://www.mkgandhi.org/health/keytohealth/index.htm
 - [K7] Letter to Herr Hitler ve ilgili 1940 mektubu — M. K. Gandhi / Mani Bhavan Gandhi Sangrahalaya — 23 Temmuz 1939; 1940 — https://www.gandhi-manibhavan.org/educational-resources/letter-to-herr-hitler.html
 - [K8] Collected Works, kitaplar ve arşiv kataloğu — Gandhi Heritage Portal — külliyat 1884–1948; portal tarihsiz — https://www.gandhiheritageportal.org/
-- [K9] Chronology of Mahatma Gandhi — Gandhi Smriti and Darshan Samiti / Government of India — tarihsiz web kronolojisi — https://gandhismriti.gov.in/more/chronology-mahatma-gandhi
+- [K9] Chronology of Mahatma Gandhi — Gandhi Smriti and Darshan Samiti / Government of India — tarihsiz web kronolojisi — https://web.archive.org/web/20261012123233/https://gandhismriti.gov.in/more/chronology-mahatma-gandhi
 - [K10] Mahatma Gandhi Chronology ve olay dizinleri — Gandhi Heritage Portal; C. B. Dalal/CWMG temelli — tarihsiz — https://www.gandhiheritageportal.org/chronology
 - [K12] Gandhi in South Africa: British Imperialist or Liberator? — Robert A. Huttenback / Journal of Modern African Studies 9/1, Cambridge — 1971 — https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/gandhi-in-south-africa/8F7830A532D7944B2D00C6CC56850465
 - [K13] ‘African Gandhi’: The South African War and the Limits of Imperial Identity — André Odendaal / Historia 65/2 — 2020 — https://upjournals.up.ac.za/index.php/historia/article/view/1850

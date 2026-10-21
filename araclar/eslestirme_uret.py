@@ -1,9 +1,11 @@
 """Kişi kartlarının kimlik.md ön bilgisinden references/eslestirme.md dizinini üretir.
 
-Kullanım: python3 araclar/eslestirme_uret.py
+Kullanım: python3 araclar/eslestirme_uret.py            # yeniden üret
+         python3 araclar/eslestirme_uret.py --kontrol  # güncel değilse 1 ile çıkar
 Sözlük bölümü araclar/etiket-sozlugu.md dosyasından alınır; dizin kartlardan üretilir.
 """
 import re
+import sys
 from pathlib import Path
 
 KOK = Path(__file__).resolve().parents[1]
@@ -44,7 +46,14 @@ def main():
     ]
     for e in SIRA:
         satirlar.append(f"| `{e}` | {', '.join(dogrudan[e]) or '—'} | {', '.join(dolayli[e]) or '—'} |")
-    (KOK / "derman/references/eslestirme.md").write_text("\n".join(satirlar) + "\n")
+    yeni = "\n".join(satirlar) + "\n"
+    hedef = KOK / "derman/references/eslestirme.md"
+    if "--kontrol" in sys.argv:
+        if hedef.read_text() != yeni:
+            sys.exit("eslestirme.md kartlarla uyuşmuyor; python3 araclar/eslestirme_uret.py ile yeniden üret")
+        print("eslestirme.md güncel")
+        return
+    hedef.write_text(yeni)
 
 
 if __name__ == "__main__":

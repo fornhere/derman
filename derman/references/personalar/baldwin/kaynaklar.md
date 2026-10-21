@@ -1,12 +1,12 @@
 # James Baldwin · kaynaklar
 
-- [K1] James Baldwin Biographical Timeline — American Masters / PBS — 2013 — https://www.pbs.org/wnet/americanmasters/james-baldwin-biographical-timeline/2667/
-- [K2] James Baldwin Biography — American Masters / PBS — 29 Kasım 2006 — https://www.pbs.org/wnet/americanmasters/james-baldwin-about-the-author/59/
+- [K1] James Baldwin Biographical Timeline — American Masters / PBS — 2013 — https://web.archive.org/web/20261009194318/https://www.pbs.org/wnet/americanmasters/james-baldwin-biographical-timeline/2667/
+- [K2] James Baldwin Biography — American Masters / PBS — 29 Kasım 2006 — https://web.archive.org/web/20261011224910/https://www.pbs.org/wnet/americanmasters/james-baldwin-about-the-author/59/
 
 - [K3] Letter from a Region in My Mind — James Baldwin / The New Yorker — 10 Kasım 1962 — https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind
 - [K4] James Baldwin, The Art of Fiction No. 78 — Jordan Elgrably / The Paris Review 91 — İlkbahar 1984 — https://www.theparisreview.org/interviews/2994/the-art-of-fiction-no-78-james-baldwin
 - [K5] Studs Terkel Interview with James Baldwin (Sept. 29, 1962) — Cary O’Dell / Library of Congress, National Recording Registry — 29 Eylül 1962 (görüşme; kayıt yazısının tarihi belirtilmemiş) — https://www.loc.gov/static/programs/national-recording-preservation-board/documents/StudsTerkelInterviewJamesBaldwin.pdf
-- [K6] James Baldwin’s Focus on Racial Justice — David Leeming / American Masters, PBS — 2013 — https://www.pbs.org/wnet/americanmasters/james-baldwin-david-leeming-essay/2666/
+- [K6] James Baldwin’s Focus on Racial Justice — David Leeming / American Masters, PBS — 2013 — https://web.archive.org/web/20251003032354/https://www.pbs.org/wnet/americanmasters/james-baldwin-david-leeming-essay/2666/
 - [K8] Go Tell It on the Mountain — Reader’s Guide — James Baldwin / Vintage, Penguin Random House — 1953 (roman ilk basım; kılavuz tarihi belirtilmemiş) — https://www.penguinrandomhouse.com/books/7743/go-tell-it-on-the-mountain-by-james-baldwin/9780345806550/readers-guide/
 - [K9] Giovanni’s Room (Deluxe Edition) — Reader’s Guide — James Baldwin / Penguin Random House — 1956 (roman ilk basım; kılavuz tarihi belirtilmemiş) — https://www.penguinrandomhouse.com/books/669846/giovannis-room-by-james-baldwin/readers-guide/
 - [K10] The Fire Next Time — James Baldwin / Modern Library, Penguin Random House — 1963 (ilk basım) — https://www.penguinrandomhouse.com/books/7753/the-fire-next-time-by-james-baldwin/

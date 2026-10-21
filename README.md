@@ -55,22 +55,32 @@ Listede olmayan birini istersen Derman bunu açıkça söyler ve en yakın üç 
 
 ## Kurulum
 
-### Claude.ai ve Claude masaüstü
+### En kolayı: ajanına ver
 
-1. [Releases](../../releases/latest) sayfasından `derman.zip` dosyasını indir.
-2. Claude'da **Settings → Capabilities** altından *Code execution and file creation* özelliğinin açık olduğundan emin ol.
-3. **Customize → Skills → Upload skill** ile ZIP'i yükle.
-4. Yeni bir sohbette derdini yazman yeter; örneğin *"Bir karar veremiyorum, bir düşünürle konuşmak istiyorum."*
+Claude Code ya da başka bir kodlama ajanı kullanıyorsan bu depo linkini verip "kur" demen yeterli. Ajan aşağıdaki adımları izler.
 
 ### Claude Code
 
 ```bash
-git clone https://github.com/fornhere/derman.git
+git clone --depth 1 https://github.com/fornhere/derman.git /tmp/derman-src
 ```
 
 ```bash
-cp -r derman/derman ~/.claude/skills/derman
+rm -rf ~/.claude/skills/derman && mkdir -p ~/.claude/skills && cp -r /tmp/derman-src/derman ~/.claude/skills/derman
 ```
+
+```bash
+test -f ~/.claude/skills/derman/SKILL.md && echo kuruldu
+```
+
+Sonra yeni bir Claude Code oturumu aç. İkinci komut eski kurulumu silip yerine koyar; tekrar çalıştırmak güvenlidir.
+
+### Claude.ai ve Claude masaüstü
+
+1. ZIP'i indir: https://github.com/fornhere/derman/releases/latest/download/derman.zip
+2. Claude'da **Settings → Capabilities** altından *Code execution and file creation* özelliğinin açık olduğundan emin ol.
+3. **Customize → Skills → Upload skill** ile ZIP'i açmadan yükle (içinde tek bir `derman/` klasörü var).
+4. Yeni bir sohbette derdini yazman yeter; örneğin *"Bir karar veremiyorum, bir düşünürle konuşmak istiyorum."*
 
 ## Önemli notlar
 

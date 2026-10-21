@@ -15,7 +15,7 @@
 - [K13] Die Weise von Liebe und Tod des Cornets Christoph Rilke — Rainer Maria Rilke / Project Gutenberg — yazım 1899; kitap 1906 — https://www.gutenberg.org/ebooks/24043
 - [K14] Briefe: Briefe an einen jungen Dichter, Briefe an eine junge Frau, Cézanne mektupları — Rainer Maria Rilke / rilke.de — mektuplar 1903–08/1907; ilk derlemeler 1929 vd. — https://www.rilke.de/briefe/briefe_index.htm
 - [K15] The Purpose of Life Is To Be Defeated by Greater and Greater Things — Garson O’Toole / Quote Investigator — 20 Şubat 2018; güncelleme 12 Nisan 2025 — https://quoteinvestigator.com/2018/02/20/greater/
-- [K16] The Rilke Alphabet, özellikle m for Mussolini, s. 116–124 — Ulrich Baer; çev. Andrew Hamilton / Fordham University Press; Oxford Academic — 2014 — https://academic.oup.com/fordham-scholarship-online/book/20321
+- [K16] The Rilke Alphabet, özellikle m for Mussolini, s. 116–124 — Ulrich Baer; çev. Andrew Hamilton / Fordham University Press; Oxford Academic — 2014 — https://academic.oup.com/fordham-scholarship-online/book/20321 (bağlantı şu an erişilemiyor)
 - [K17] »was ists?« Philologie, Metrik und Krieg in Rilkes »Fünf Gesängen« (1914) — Felix Christen / Deutsche Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte 99, s. 383–400 — 2025 — https://link.springer.com/article/10.1007/s41245-025-00275-y
 - [K18] Rainer Maria Rilke — Wikiquote, kaynaklı söz dizini — erişim 21 Ekim 2026 — https://en.wikiquote.org/wiki/Rainer_Maria_Rilke
 
